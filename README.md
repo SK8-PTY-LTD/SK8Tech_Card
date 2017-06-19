@@ -1,10 +1,17 @@
-![home](https://github.com/luosijie/Front-end-Blog/blob/master/img/a.PNG?raw=true)
 ## 一个简单的图片处理网站
 
-```
-通过管理员编辑上传名片模板
-可以让用户在线编辑并下载png格式图片直接打印
-```
+![Language:JavaScript](https://img.shields.io/badge/Language-Javascript-yellow.svg?style=flat)
+![Language:Node](https://img.shields.io/badge/Language-Node-green.svg?style=flat)
+![Database:MongoDB](https://img.shields.io/badge/Database-MongoDB-green.svg?style=flat)
+![License:GPL](https://img.shields.io/badge/License-GPL-blue.svg?style=flat)
+
+
+![home](https://github.com/luosijie/Front-end-Blog/blob/master/img/a.PNG?raw=true)
+
+
+## 提交日志
+2017-6-18 9：25 修复网站只能注册一个用户的问题
+
 
 ## 安装
 1. 安装MongoDB并成功启动
@@ -14,6 +21,10 @@
 5. 访问 localhost:3000
 
 ## 实现功能
+```
+通过管理员编辑上传名片模板
+可以让用户在线编辑并下载png格式图片直接打印
+```
 1. 登录注册
 2. 图片简单处理
 3. 名片模板的上传和保存
